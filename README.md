@@ -1,0 +1,1 @@
+HEWOOO THERE DUDEEE! Just run env/scripts/activate and after that do a quick python chatapp.py. Make sure you have a version of python installed and working in your path.
